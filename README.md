@@ -20,7 +20,7 @@ By the end of this lab, you will be able to:
 ## Setup
 
 0. **Install [VScode](https://code.visualstudio.com/download) or use another IDE you're comfortable with (we use VSCode)**
-1. **Use your KTH Git account.**  
+1. **Login to your GitHub account.**  
 2. **Fork this lab repository** to your own GitHub account.  
    - Do **not** push to the teacher’s repository.  
 3. **Clone your forked repository** to your local computer:
